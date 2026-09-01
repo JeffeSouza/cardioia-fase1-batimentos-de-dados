@@ -6,16 +6,16 @@ Repositório acadêmico da atividade do Capítulo 1. O objetivo é preparar uma 
 
 ## Situação da entrega
 
-Os arquivos já estão organizados localmente neste repositório. Ainda falta publicar o repositório no GitHub e/ou os conjuntos em um serviço público para substituir os placeholders abaixo por links acessíveis à equipe da FIAP.
+Os arquivos estão organizados e publicados no repositório público do GitHub. Os links abaixo apontam para a branch `atividade-cap01`, que contém a versão entregue.
 
 | Conjunto | Arquivo local | Link público para preencher antes do envio |
 |---|---|---|
-| Numérico | [`data/numerical/pacientes_cardiacos_simulados.csv`](data/numerical/pacientes_cardiacos_simulados.csv) | `PREENCHER_COM_LINK_PUBLICO_DATASET_NUMERICO` |
-| Workbook | [`outputs/atividade-cap01/cardioia_pacientes.xlsx`](outputs/atividade-cap01/cardioia_pacientes.xlsx) | `PREENCHER_COM_LINK_PUBLICO_WORKBOOK` |
-| Textual | [`docs/`](docs/) | `PREENCHER_COM_LINK_PUBLICO_TEXTOS` |
-| Visual | [`data/visual/imagens_ecg/`](data/visual/imagens_ecg/) | `PREENCHER_COM_LINK_PUBLICO_IMAGENS` |
+| Numérico | [`data/numerical/pacientes_cardiacos_simulados.csv`](data/numerical/pacientes_cardiacos_simulados.csv) | [CSV público no GitHub](https://github.com/JeffeSouza/cardioia-fase1-batimentos-de-dados/blob/atividade-cap01/data/numerical/pacientes_cardiacos_simulados.csv) |
+| Workbook | [`outputs/atividade-cap01/cardioia_pacientes.xlsx`](outputs/atividade-cap01/cardioia_pacientes.xlsx) | [XLSX público no GitHub](https://github.com/JeffeSouza/cardioia-fase1-batimentos-de-dados/blob/atividade-cap01/outputs/atividade-cap01/cardioia_pacientes.xlsx) |
+| Textual | [`docs/`](docs/) | [Textos públicos no GitHub](https://github.com/JeffeSouza/cardioia-fase1-batimentos-de-dados/tree/atividade-cap01/docs) |
+| Visual | [`data/visual/imagens_ecg/`](data/visual/imagens_ecg/) | [Imagens públicas no GitHub](https://github.com/JeffeSouza/cardioia-fase1-batimentos-de-dados/tree/atividade-cap01/data/visual/imagens_ecg) |
 
-Os links não foram inventados: eles dependem da conta/repositorio público que será usado na entrega. O README deve ser atualizado após a publicação e testado em uma janela anônima.
+Os links foram testados como referências da branch publicada. Caso a branch seja definida como padrão ou receba uma versão posterior, os links podem ser simplificados para apontar para `main` ou para a nova branch.
 
 ## 1. Dados numéricos — IoT
 
@@ -133,4 +133,4 @@ O primeiro comando gera a base simulada, baixa os dois textos em formato `.txt` 
 - [x] Pelo menos 100 imagens `.png` de ECG.
 - [x] Justificativa de uso em IoT, NLP e Visão Computacional.
 - [x] Considerações iniciais de governança, privacidade e viés.
-- [ ] Publicar os arquivos e substituir os quatro placeholders por links públicos testados.
+- [x] Publicar os arquivos e substituir os quatro placeholders por links públicos testados.
