@@ -6,16 +6,16 @@ Repositório acadêmico da atividade do Capítulo 1. O objetivo é preparar uma 
 
 ## Situação da entrega
 
-Os arquivos estão organizados e publicados no repositório público do GitHub. Os links abaixo apontam para a branch `atividade-cap01`, que contém a versão entregue.
+Os arquivos estão organizados e publicados no repositório do GitHub. Os links abaixo apontam para a branch `atividade-cap01`, que contém a versão entregue. Para a correção, confirme em **Settings → General → Change repository visibility** que o repositório está como **Public**.
 
 | Conjunto | Arquivo local | Link público para preencher antes do envio |
 |---|---|---|
-| Numérico | [`data/numerical/pacientes_cardiacos_simulados.csv`](data/numerical/pacientes_cardiacos_simulados.csv) | [CSV público no GitHub](https://github.com/JeffeSouza/cardioia-fase1-batimentos-de-dados/blob/atividade-cap01/data/numerical/pacientes_cardiacos_simulados.csv) |
-| Workbook | [`outputs/atividade-cap01/cardioia_pacientes.xlsx`](outputs/atividade-cap01/cardioia_pacientes.xlsx) | [XLSX público no GitHub](https://github.com/JeffeSouza/cardioia-fase1-batimentos-de-dados/blob/atividade-cap01/outputs/atividade-cap01/cardioia_pacientes.xlsx) |
-| Textual | [`docs/`](docs/) | [Textos públicos no GitHub](https://github.com/JeffeSouza/cardioia-fase1-batimentos-de-dados/tree/atividade-cap01/docs) |
-| Visual | [`data/visual/imagens_ecg/`](data/visual/imagens_ecg/) | [Imagens públicas no GitHub](https://github.com/JeffeSouza/cardioia-fase1-batimentos-de-dados/tree/atividade-cap01/data/visual/imagens_ecg) |
+| Numérico | [`data/numerical/pacientes_cardiacos_simulados.csv`](data/numerical/pacientes_cardiacos_simulados.csv) | [CSV no GitHub](https://github.com/JeffeSouza/cardioia-fase1-batimentos-de-dados/blob/atividade-cap01/data/numerical/pacientes_cardiacos_simulados.csv) |
+| Workbook | [`outputs/atividade-cap01/cardioia_pacientes.xlsx`](outputs/atividade-cap01/cardioia_pacientes.xlsx) | [XLSX no GitHub](https://github.com/JeffeSouza/cardioia-fase1-batimentos-de-dados/blob/atividade-cap01/outputs/atividade-cap01/cardioia_pacientes.xlsx) |
+| Textual | [`docs/`](docs/) | [Textos no GitHub](https://github.com/JeffeSouza/cardioia-fase1-batimentos-de-dados/tree/atividade-cap01/docs) |
+| Visual | [`data/visual/imagens_ecg/`](data/visual/imagens_ecg/) | [Imagens no GitHub](https://github.com/JeffeSouza/cardioia-fase1-batimentos-de-dados/tree/atividade-cap01/data/visual/imagens_ecg) |
 
-Os links foram testados como referências da branch publicada. Caso a branch seja definida como padrão ou receba uma versão posterior, os links podem ser simplificados para apontar para `main` ou para a nova branch.
+Os links foram conferidos como referências da branch publicada. Depois de tornar o repositório público, abra o endereço em uma janela anônima para confirmar o acesso sem login.
 
 ## 1. Dados numéricos — IoT
 
@@ -133,4 +133,4 @@ O primeiro comando gera a base simulada, baixa os dois textos em formato `.txt` 
 - [x] Pelo menos 100 imagens `.png` de ECG.
 - [x] Justificativa de uso em IoT, NLP e Visão Computacional.
 - [x] Considerações iniciais de governança, privacidade e viés.
-- [x] Publicar os arquivos e substituir os quatro placeholders por links públicos testados.
+- [ ] Tornar o repositório público e testar os links em uma janela anônima.
