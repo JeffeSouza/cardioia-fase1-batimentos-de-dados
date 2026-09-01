@@ -1,0 +1,14 @@
+CardioIA - resumo textual para experimentos de NLP
+Fonte de contexto: Ministério da Saúde, página "Infarto"
+URL: https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/i/infarto
+Data de referência: 2026-09-01
+
+Este texto é um resumo autoral para uso acadêmico. Ele não reproduz integralmente a página de origem e não substitui uma orientação médica.
+
+O infarto agudo do miocárdio é uma emergência em que parte do músculo do coração deixa de receber fluxo sanguíneo adequado. A interrupção pode acontecer quando um coágulo ou outra obstrução reduz o fluxo em uma artéria coronária. O atendimento rápido é importante porque o tempo influencia a quantidade de tecido afetado e as possibilidades de tratamento.
+
+Entre os sinais que merecem atenção estão dor ou desconforto no peito, sensação de peso ou aperto, dor que pode se espalhar para o braço, costas ou mandíbula, falta de ar, suor frio, palidez, náusea e sensação de desmaio. A manifestação pode variar entre pessoas. Em idosos e pessoas com diabetes, os sinais podem ser menos específicos; por isso, um mal-estar súbito também exige cuidado.
+
+A prevenção envolve o acompanhamento de fatores de risco e a adoção de hábitos saudáveis. Tabagismo, sedentarismo, alimentação inadequada, colesterol elevado, hipertensão, diabetes e estresse podem contribuir para o risco cardiovascular. A avaliação e o tratamento devem ser conduzidos por profissionais habilitados, que podem solicitar exames e definir a conduta adequada.
+
+Para um sistema de processamento de linguagem, o texto oferece entidades clínicas, sintomas, fatores de risco, ações de urgência e negações implícitas. Um pipeline pode identificar termos, classificar trechos por tema e extrair relações entre sintomas e condutas. A saída precisa ser revisada por um profissional e não deve produzir diagnóstico automático.

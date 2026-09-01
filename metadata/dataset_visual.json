@@ -1,0 +1,20 @@
+{
+  "images": 100,
+  "records": [
+    "100",
+    "101",
+    "102",
+    "103",
+    "104",
+    "105",
+    "106",
+    "107",
+    "108",
+    "109"
+  ],
+  "windows_per_record": 10,
+  "window_seconds": 5,
+  "sampling_frequency_hz": 360,
+  "derived_from": "https://physionet.org/files/mitdb/1.0.0",
+  "generated_on": "2026-09-01"
+}

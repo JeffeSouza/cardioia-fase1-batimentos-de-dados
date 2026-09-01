@@ -1,0 +1,10 @@
+{
+  "dataset": "pacientes_cardiacos_simulados",
+  "generator": "tools/prepare_data.py",
+  "seed": 20260901,
+  "rows": 200,
+  "generated_on": "2026-09-01",
+  "origin": "simulated",
+  "target_rule": "risk_score >= 7, with score documented in the generator and not exported",
+  "privacy": "no real patient identifiers or records"
+}

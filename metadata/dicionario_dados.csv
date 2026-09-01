@@ -1,0 +1,23 @@
+nome_variavel,descricao,tipo,unidade,observacao
+id_caso,Identificador técnico de um caso simulado,texto,sem unidade,Não representa prontuário.
+idade_anos,Idade simulada,inteiro,anos,Faixa didática de 18 a 88.
+sexo,Sexo codificado para o exercício,categórico,F/M,Não deve ser usado como atalho causal.
+pressao_sistolica_mmhg,Pressão arterial sistólica,inteiro,mmHg,Medida simulada em repouso/admissão.
+pressao_diastolica_mmhg,Pressão arterial diastólica,inteiro,mmHg,Medida simulada em repouso/admissão.
+colesterol_total_mg_dl,Colesterol total,inteiro,mg/dL,Valor simulado para exploração.
+glicemia_jejum_mg_dl,Glicemia de jejum,inteiro,mg/dL,Valor simulado para exploração.
+diabetes_historico,Histórico de diabetes,binário,0/1,1 = sim; 0 = não.
+historico_doenca_cardiaca,Histórico de doença cardíaca,binário,0/1,1 = sim; 0 = não.
+historico_familiar_cardiopatia,Histórico familiar de cardiopatia,binário,0/1,1 = sim; 0 = não.
+tabagista,Tabagismo atual simulado,binário,0/1,1 = sim; 0 = não.
+atividade_fisica,Nível categórico de atividade física,categórico,categoria,"sedentario, moderado ou regular."
+nivel_estresse,Nível de estresse autorrelatado simulado,categórico,categoria,"baixo, moderado ou alto."
+imc,Índice de massa corporal,decimal,kg/m²,Valor simulado.
+frequencia_cardiaca_repouso_bpm,Frequência cardíaca em repouso,inteiro,bpm,Sinal compatível com um sensor IoT.
+saturacao_oxigenio_spo2,Saturação periférica de oxigênio,inteiro,%,Valor simulado de oximetria.
+sintoma_dor_toracica,Categoria de dor/desconforto torácico,categórico,categoria,"nenhuma, pressao, queimacao ou aperto."
+sintoma_falta_ar,Presença de falta de ar,binário,0/1,1 = presente; 0 = ausente.
+sintoma_palpitacoes,Presença de palpitações,binário,0/1,1 = presente; 0 = ausente.
+sintoma_fadiga,Presença de fadiga,binário,0/1,1 = presente; 0 = ausente.
+padrao_ecg,Padrão ECG categórico simulado,categórico,categoria,Não é laudo nem interpretação clínica.
+rotulo_risco_cardiovascular_simulado,Alvo binário gerado por regra didática,binário,0/1,Não é diagnóstico nem probabilidade clínica.

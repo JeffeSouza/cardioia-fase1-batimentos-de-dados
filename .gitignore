@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+node_modules/
+
+# Arquivos brutos do PhysioNet são baixados pelo script e não precisam ser
+# redistribuídos junto das imagens derivadas.
+data/raw/
+
+# A prévia é um artefato de validação local; o workbook final permanece versionado.
+outputs/atividade-cap01/*.png
+outputs/atividade-cap01/*.ndjson
